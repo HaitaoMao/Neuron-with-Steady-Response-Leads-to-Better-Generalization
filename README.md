@@ -1,6 +1,6 @@
 # Neuron with Steady Response Leads to Better Genralization
 
-This repository is the official implementation of [Neuron with Steady Response Leads to Better
+This repository is the implementation of [Neuron with Steady Response Leads to Better
 Generalization](https://arxiv.org/pdf/2111.15414.pdf), accepted by **NeurIPS 2022**. 
 
 ## Abstract
